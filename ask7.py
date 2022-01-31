@@ -62,10 +62,10 @@ if search_key in p:
         if search_key==p[i]:
             pos=i
             print (pos)
-  if pos==2:
+  if pos==1:
             print("to palaiotero amaksi einai to", mod2min,"me xronologia",min2)
             print("to neotero amaksi einai to", mod2max,"me xronologia",max2)
-  if pos==1:
+  if pos==2:
             print("to pio argo amaksi einai to ",mod1min,"me ",min1," aloga ")
             print("to pio grigoro amaksi einai to ",mod1max,"me ",max1," aloga ")
   if pos==0:
