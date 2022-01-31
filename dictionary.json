@@ -1,0 +1,25 @@
+
+{
+  "cars": [
+    {
+      "model": "gt",
+      "year": 1964,
+      "hp": 660
+    },
+    {
+      "model": "testa rossa",
+      "year": 1957,
+      "hp": 390
+    },
+    {
+      "model": "supra",
+      "year": 2019,
+      "hp": 197
+    },
+    {
+      "model": "gtr",
+      "year": 2011,
+      "hp": 485
+    }
+  ]
+}
