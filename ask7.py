@@ -1,4 +1,5 @@
 import json
+
 d={}
 e={}
 p=[]
@@ -12,9 +13,9 @@ for index,value in enumerate(k):
 
 
 u=my_dict.keys()
-print(my_dict)
+
 y=my_dict[1].keys()
-print(y)
+
 
 for i in range(len(y)):
                p1=list(my_dict[1].keys())[i]
@@ -50,6 +51,8 @@ for i in range (len(u)):
         onomax=w 
     if w<onomin:
         onomin=w
+for i in range(len(p)):
+    print(p[i])
 va = input("dwse model(modelo) h year(etos kataskevis) h hp(aloga).Se periptosi poy dwseis model ta apotelesmata emfanizontai alfavitika: : ")
 
 
